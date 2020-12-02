@@ -1,6 +1,6 @@
 # Phasmonomicon
 
-![HomeScreen](https://i.ibb.co/DV659dp/Screenshot-Home.jpg)
+<img src="https://i.ibb.co/DV659dp/Screenshot-Home.jpg" height="500">
 
 A helpful Phasmophobia game guide in form of a Flutter App, created with the information of [azsry's GitHub Repository](https://github.com/azsry/phasmophobia_mechanics).
 
@@ -15,10 +15,10 @@ The game may be a bit confusing in its mechanics, so we built a little list of t
  - Evidences
    - Most evidence has some mathematics or calculated chances as part of their mechanic, which is described here
 
-![Ghosts](https://i.ibb.co/GW7jkPT/Screenshot-Ghosts.jpg)
-![Ghosts Detail](https://i.ibb.co/NLJM8KF/Screenshot-Ghosts-Detail.jpg)
-![Items](https://i.ibb.co/Gcvhk4f/Screenshot-Items.jpg)
-![Evidence](https://i.ibb.co/42J8MH0/Screenshot-Evidence.jpg)
+<img src="https://i.ibb.co/GW7jkPT/Screenshot-Ghosts.jpg" height="500" alt="Ghosts"/>
+<img src="https://i.ibb.co/NLJM8KF/Screenshot-Ghosts-Detail.jpg" height="500" alt="Ghost Detail"/>
+<img src="https://i.ibb.co/Gcvhk4f/Screenshot-Items.jpg" height="500" alt="Items"/>
+<img src="https://i.ibb.co/42J8MH0/Screenshot-Evidence.jpg" height="500" alt="Evidence"/>
 
 ## Evidence Tracker
 As a draggable sheet at the bottom of the app there is the evidence tracker, probably the most useful tool in this app.
@@ -28,7 +28,7 @@ This filters the list of possible ghosts, and also shows which evidence is left 
 
 If any more detailed info is needed about a possible ghost (e.g. strength, weakness, special ability, ...), a simple tap on its name navigates to its detail page of the wiki.
 
-![Tracker](https://i.ibb.co/FHmTYQr/Screenshot-Home-Tracker.jpg)
+<img src="https://i.ibb.co/FHmTYQr/Screenshot-Home-Tracker.jpg" height="500" alt="Tracker"/>
 
 ## Roadmap
 Of course, there is even more specific information about the game to be known, like ghost box phrases or ghost activities.
