@@ -15,10 +15,7 @@ The game may be a bit confusing in its mechanics, so we built a little list of t
  - Evidences
    - Most evidence has some mathematics or calculated chances as part of their mechanic, which is described here
 
-<img src="https://i.ibb.co/GW7jkPT/Screenshot-Ghosts.jpg" height="500" alt="Ghosts"/>
-<img src="https://i.ibb.co/NLJM8KF/Screenshot-Ghosts-Detail.jpg" height="500" alt="Ghost Detail"/>
-<img src="https://i.ibb.co/Gcvhk4f/Screenshot-Items.jpg" height="500" alt="Items"/>
-<img src="https://i.ibb.co/42J8MH0/Screenshot-Evidence.jpg" height="500" alt="Evidence"/>
+<img src="https://i.ibb.co/GW7jkPT/Screenshot-Ghosts.jpg" height="450" alt="Ghosts"/><img src="https://i.ibb.co/NLJM8KF/Screenshot-Ghosts-Detail.jpg" height="450" alt="Ghost Detail"/><img src="https://i.ibb.co/Gcvhk4f/Screenshot-Items.jpg" height="450" alt="Items"/><img src="https://i.ibb.co/42J8MH0/Screenshot-Evidence.jpg" height="450" alt="Evidence"/>
 
 ## Evidence Tracker
 As a draggable sheet at the bottom of the app there is the evidence tracker, probably the most useful tool in this app.
